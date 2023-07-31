@@ -48,3 +48,7 @@ Completed working on codebasics PowerBi course
  ➦ Retailer
  ➦ Distributors
  ➦ Consumer
+
+
+ Interactive Dashboard Link:
+ https://www.novypro.com/project/sales-insight-360-power-bi
